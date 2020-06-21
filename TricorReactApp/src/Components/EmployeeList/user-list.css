@@ -1,0 +1,33 @@
+.employee-list {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table,
+th,
+td {
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding-left: 10px;
+    padding-right: 25px;
+    text-align: left;
+}
+
+.paging {
+    margin-top: 25px;
+    text-align: right;
+}
+
+.mx-2 {
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.underline {
+    text-decoration: underline;
+}

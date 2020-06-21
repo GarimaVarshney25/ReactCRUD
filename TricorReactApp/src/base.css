@@ -1,0 +1,25 @@
+.clickable {
+    cursor: pointer;
+}
+
+.row {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.w-150 {
+    width: 150px;
+}
+
+.ml-150 {
+    margin-left: 150px;
+}
+
+.ml-10{
+    margin-left: 10px;
+}
+.display
+{
+    display:flex;
+    justify-content: space-between;
+}
